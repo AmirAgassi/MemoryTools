@@ -1,5 +1,5 @@
 # MemoryTools
-Generic internal memory scanning tools in C++.
+Generic internal memory scanning tool in C++.
 ```c++
 DWORD Scan(char* cn) {
     SYSTEM_INFO sysinfo;
