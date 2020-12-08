@@ -1,5 +1,5 @@
 # MemoryTools
-Generic internal memory scanning tool in C++.
+Generic internal memory scanning tool in C++. Mask is static at "xxxx".
 ```c++
 DWORD Scan(char* cn) {
     SYSTEM_INFO sysinfo;
